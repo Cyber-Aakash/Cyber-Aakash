@@ -32,7 +32,7 @@
 <!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 
 
-<a href="https://github.com/Cyber-Aakash/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Aakash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Cyber-Aakash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Aakash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <a href="https://github.com/Cyber-Aakash">

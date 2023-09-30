@@ -1,6 +1,6 @@
 # Hi👋 I'm Aakash Jain
 
-## Web Developer
+## Cyber Security Analyst / Penetration Tester / Web Developer
 
 ## About me
 
